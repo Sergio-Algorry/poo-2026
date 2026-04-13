@@ -26,13 +26,16 @@
 //buscadorLista.ObtenerPersona(1);
 //Console.WriteLine("-------------------------");
 
-Ejemplo6 ej = new Ejemplo6();
+//Ejemplo6 ej = new Ejemplo6();
 
-    //Ejemplo6.PruebaStatic();
+//Ejemplo6.PruebaStatic();
 
-    //ej.PruebaNoStatic();
+//ej.PruebaNoStatic();
 
 //ej.MetodoConError();
-ej.CalculoEdad();
+//ej.CalculoEdad();
+
+Ejemplo7 ej = new Ejemplo7();
+
 
 
