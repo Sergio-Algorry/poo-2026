@@ -35,7 +35,9 @@
 //ej.MetodoConError();
 //ej.CalculoEdad();
 
-Ejemplo7 ej = new Ejemplo7();
+//Ejemplo7 ej = new Ejemplo7();
+
+Ejemplo8 ej = new Ejemplo8();
 
 
 
